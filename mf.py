@@ -1,4 +1,3 @@
-#Read antenna signal and apply noise
 import numpy as np
 import scipy.signal
 import scipy.fftpack
